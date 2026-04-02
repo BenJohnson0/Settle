@@ -1,0 +1,1628 @@
+{
+  "blackrock": {
+    "shops": [
+      "tesco",
+      "centra",
+      "marks-spencer",
+      "supervalu",
+      "lidl",
+      "londis",
+      "aldi",
+      "dunnes"
+    ],
+    "recreation": {
+      "pubs": 25,
+      "gyms": 58,
+      "clothesShops": 36,
+      "sportsFacilities": 183,
+      "parks": 44
+    },
+    "amenities": {
+      "schools": 35,
+      "libraries": 5,
+      "cinemas": 2
+    },
+    "healthcare": {
+      "hospitals": 5,
+      "gps": 20,
+      "dentists": 24
+    }
+  },
+  "ranelagh": {
+    "shops": [
+      "centra",
+      "tesco",
+      "lidl",
+      "dunnes",
+      "aldi",
+      "londis",
+      "supervalu",
+      "marks-spencer"
+    ],
+    "recreation": {
+      "pubs": 312,
+      "gyms": 129,
+      "clothesShops": 134,
+      "sportsFacilities": 447,
+      "parks": 97
+    },
+    "amenities": {
+      "schools": 69,
+      "libraries": 25,
+      "cinemas": 6
+    },
+    "healthcare": {
+      "hospitals": 10,
+      "gps": 65,
+      "dentists": 57
+    }
+  },
+  "clondalkin": {
+    "shops": [
+      "centra",
+      "lidl",
+      "supervalu",
+      "londis",
+      "dunnes",
+      "aldi",
+      "tesco"
+    ],
+    "recreation": {
+      "pubs": 9,
+      "gyms": 14,
+      "clothesShops": 3,
+      "sportsFacilities": 111,
+      "parks": 25
+    },
+    "amenities": {
+      "schools": 29,
+      "libraries": 2,
+      "cinemas": 0
+    },
+    "healthcare": {
+      "hospitals": 1,
+      "gps": 1,
+      "dentists": 4
+    }
+  },
+  "bray": {
+    "shops": [
+      "supervalu",
+      "dunnes",
+      "centra",
+      "tesco",
+      "lidl",
+      "aldi"
+    ],
+    "recreation": {
+      "pubs": 12,
+      "gyms": 30,
+      "clothesShops": 5,
+      "sportsFacilities": 94,
+      "parks": 16
+    },
+    "amenities": {
+      "schools": 20,
+      "libraries": 2,
+      "cinemas": 0
+    },
+    "healthcare": {
+      "hospitals": 0,
+      "gps": 6,
+      "dentists": 4
+    }
+  },
+  "kilkenny-city": {
+    "shops": [
+      "dunnes",
+      "tesco",
+      "lidl",
+      "aldi",
+      "supervalu",
+      "centra"
+    ],
+    "recreation": {
+      "pubs": 55,
+      "gyms": 32,
+      "clothesShops": 46,
+      "sportsFacilities": 148,
+      "parks": 24
+    },
+    "amenities": {
+      "schools": 20,
+      "libraries": 6,
+      "cinemas": 3
+    },
+    "healthcare": {
+      "hospitals": 4,
+      "gps": 17,
+      "dentists": 14
+    }
+  },
+  "wexford-town": {
+    "shops": [
+      "londis",
+      "lidl",
+      "centra",
+      "aldi",
+      "tesco",
+      "supervalu",
+      "dunnes"
+    ],
+    "recreation": {
+      "pubs": 37,
+      "gyms": 22,
+      "clothesShops": 38,
+      "sportsFacilities": 68,
+      "parks": 7
+    },
+    "amenities": {
+      "schools": 15,
+      "libraries": 1,
+      "cinemas": 2
+    },
+    "healthcare": {
+      "hospitals": 2,
+      "gps": 12,
+      "dentists": 15
+    }
+  },
+  "tullamore": {
+    "shops": [
+      "dunnes",
+      "lidl",
+      "aldi",
+      "tesco",
+      "centra"
+    ],
+    "recreation": {
+      "pubs": 18,
+      "gyms": 17,
+      "clothesShops": 15,
+      "sportsFacilities": 49,
+      "parks": 17
+    },
+    "amenities": {
+      "schools": 11,
+      "libraries": 1,
+      "cinemas": 1
+    },
+    "healthcare": {
+      "hospitals": 1,
+      "gps": 9,
+      "dentists": 4
+    }
+  },
+  "midleton": {
+    "shops": [
+      "tesco",
+      "lidl",
+      "aldi",
+      "supervalu"
+    ],
+    "recreation": {
+      "pubs": 9,
+      "gyms": 23,
+      "clothesShops": 4,
+      "sportsFacilities": 27,
+      "parks": 5
+    },
+    "amenities": {
+      "schools": 10,
+      "libraries": 1,
+      "cinemas": 2
+    },
+    "healthcare": {
+      "hospitals": 1,
+      "gps": 1,
+      "dentists": 0
+    }
+  },
+  "limerick-city": {
+    "shops": [
+      "dunnes",
+      "aldi",
+      "tesco",
+      "centra",
+      "londis",
+      "supervalu",
+      "lidl"
+    ],
+    "recreation": {
+      "pubs": 86,
+      "gyms": 45,
+      "clothesShops": 62,
+      "sportsFacilities": 141,
+      "parks": 34
+    },
+    "amenities": {
+      "schools": 34,
+      "libraries": 4,
+      "cinemas": 2
+    },
+    "healthcare": {
+      "hospitals": 6,
+      "gps": 11,
+      "dentists": 15
+    }
+  },
+  "clonmel": {
+    "shops": [
+      "dunnes",
+      "supervalu",
+      "londis",
+      "marks-spencer",
+      "aldi",
+      "tesco",
+      "lidl"
+    ],
+    "recreation": {
+      "pubs": 31,
+      "gyms": 22,
+      "clothesShops": 14,
+      "sportsFacilities": 45,
+      "parks": 10
+    },
+    "amenities": {
+      "schools": 11,
+      "libraries": 1,
+      "cinemas": 1
+    },
+    "healthcare": {
+      "hospitals": 1,
+      "gps": 0,
+      "dentists": 8
+    }
+  },
+  "salthill": {
+    "shops": [
+      "centra",
+      "londis",
+      "tesco",
+      "marks-spencer",
+      "dunnes",
+      "lidl",
+      "aldi"
+    ],
+    "recreation": {
+      "pubs": 79,
+      "gyms": 28,
+      "clothesShops": 53,
+      "sportsFacilities": 89,
+      "parks": 27
+    },
+    "amenities": {
+      "schools": 25,
+      "libraries": 6,
+      "cinemas": 2
+    },
+    "healthcare": {
+      "hospitals": 1,
+      "gps": 17,
+      "dentists": 15
+    }
+  },
+  "westport": {
+    "shops": [
+      "centra",
+      "supervalu",
+      "lidl",
+      "tesco"
+    ],
+    "recreation": {
+      "pubs": 29,
+      "gyms": 11,
+      "clothesShops": 13,
+      "sportsFacilities": 25,
+      "parks": 10
+    },
+    "amenities": {
+      "schools": 7,
+      "libraries": 1,
+      "cinemas": 1
+    },
+    "healthcare": {
+      "hospitals": 0,
+      "gps": 1,
+      "dentists": 4
+    }
+  },
+  "letterkenny": {
+    "shops": [
+      "centra",
+      "tesco",
+      "dunnes",
+      "lidl",
+      "aldi",
+      "marks-spencer"
+    ],
+    "recreation": {
+      "pubs": 19,
+      "gyms": 19,
+      "clothesShops": 6,
+      "sportsFacilities": 63,
+      "parks": 9
+    },
+    "amenities": {
+      "schools": 10,
+      "libraries": 1,
+      "cinemas": 1
+    },
+    "healthcare": {
+      "hospitals": 1,
+      "gps": 2,
+      "dentists": 0
+    }
+  },
+  "dublin-city": {
+    "shops": [
+      "centra",
+      "tesco",
+      "marks-spencer",
+      "lidl",
+      "aldi",
+      "dunnes",
+      "supervalu",
+      "londis"
+    ],
+    "recreation": {
+      "pubs": 416,
+      "gyms": 155,
+      "clothesShops": 143,
+      "sportsFacilities": 297,
+      "parks": 126
+    },
+    "amenities": {
+      "schools": 83,
+      "libraries": 32,
+      "cinemas": 8
+    },
+    "healthcare": {
+      "hospitals": 21,
+      "gps": 65,
+      "dentists": 62
+    }
+  },
+  "swords": {
+    "shops": [
+      "supervalu",
+      "centra",
+      "tesco",
+      "dunnes",
+      "lidl",
+      "aldi"
+    ],
+    "recreation": {
+      "pubs": 17,
+      "gyms": 23,
+      "clothesShops": 19,
+      "sportsFacilities": 114,
+      "parks": 83
+    },
+    "amenities": {
+      "schools": 20,
+      "libraries": 2,
+      "cinemas": 1
+    },
+    "healthcare": {
+      "hospitals": 0,
+      "gps": 6,
+      "dentists": 5
+    }
+  },
+  "blanchardstown": {
+    "shops": [
+      "supervalu",
+      "marks-spencer",
+      "dunnes",
+      "tesco",
+      "lidl",
+      "centra",
+      "aldi"
+    ],
+    "recreation": {
+      "pubs": 20,
+      "gyms": 29,
+      "clothesShops": 6,
+      "sportsFacilities": 222,
+      "parks": 15
+    },
+    "amenities": {
+      "schools": 27,
+      "libraries": 3,
+      "cinemas": 1
+    },
+    "healthcare": {
+      "hospitals": 1,
+      "gps": 6,
+      "dentists": 6
+    }
+  },
+  "tallaght": {
+    "shops": [
+      "supervalu",
+      "tesco",
+      "centra",
+      "lidl",
+      "aldi",
+      "dunnes"
+    ],
+    "recreation": {
+      "pubs": 23,
+      "gyms": 41,
+      "clothesShops": 15,
+      "sportsFacilities": 224,
+      "parks": 25
+    },
+    "amenities": {
+      "schools": 34,
+      "libraries": 2,
+      "cinemas": 1
+    },
+    "healthcare": {
+      "hospitals": 1,
+      "gps": 9,
+      "dentists": 7
+    }
+  },
+  "greystones": {
+    "shops": [
+      "supervalu",
+      "centra",
+      "tesco",
+      "lidl",
+      "aldi"
+    ],
+    "recreation": {
+      "pubs": 8,
+      "gyms": 26,
+      "clothesShops": 5,
+      "sportsFacilities": 53,
+      "parks": 10
+    },
+    "amenities": {
+      "schools": 12,
+      "libraries": 1,
+      "cinemas": 0
+    },
+    "healthcare": {
+      "hospitals": 0,
+      "gps": 4,
+      "dentists": 7
+    }
+  },
+  "howth": {
+    "shops": [
+      "centra",
+      "supervalu",
+      "tesco"
+    ],
+    "recreation": {
+      "pubs": 8,
+      "gyms": 8,
+      "clothesShops": 2,
+      "sportsFacilities": 52,
+      "parks": 10
+    },
+    "amenities": {
+      "schools": 6,
+      "libraries": 1,
+      "cinemas": 0
+    },
+    "healthcare": {
+      "hospitals": 1,
+      "gps": 3,
+      "dentists": 2
+    }
+  },
+  "naas": {
+    "shops": [
+      "centra",
+      "lidl",
+      "dunnes",
+      "aldi",
+      "tesco",
+      "supervalu"
+    ],
+    "recreation": {
+      "pubs": 4,
+      "gyms": 15,
+      "clothesShops": 2,
+      "sportsFacilities": 70,
+      "parks": 34
+    },
+    "amenities": {
+      "schools": 12,
+      "libraries": 1,
+      "cinemas": 1
+    },
+    "healthcare": {
+      "hospitals": 1,
+      "gps": 4,
+      "dentists": 5
+    }
+  },
+  "newbridge": {
+    "shops": [
+      "dunnes",
+      "centra",
+      "lidl",
+      "tesco",
+      "londis",
+      "supervalu",
+      "aldi"
+    ],
+    "recreation": {
+      "pubs": 16,
+      "gyms": 22,
+      "clothesShops": 8,
+      "sportsFacilities": 70,
+      "parks": 2
+    },
+    "amenities": {
+      "schools": 11,
+      "libraries": 1,
+      "cinemas": 1
+    },
+    "healthcare": {
+      "hospitals": 0,
+      "gps": 1,
+      "dentists": 2
+    }
+  },
+  "maynooth": {
+    "shops": [
+      "supervalu",
+      "centra",
+      "londis",
+      "dunnes",
+      "tesco",
+      "aldi",
+      "lidl"
+    ],
+    "recreation": {
+      "pubs": 12,
+      "gyms": 16,
+      "clothesShops": 10,
+      "sportsFacilities": 62,
+      "parks": 8
+    },
+    "amenities": {
+      "schools": 9,
+      "libraries": 3,
+      "cinemas": 0
+    },
+    "healthcare": {
+      "hospitals": 0,
+      "gps": 5,
+      "dentists": 3
+    }
+  },
+  "gorey": {
+    "shops": [
+      "supervalu",
+      "dunnes",
+      "aldi",
+      "tesco",
+      "lidl"
+    ],
+    "recreation": {
+      "pubs": 15,
+      "gyms": 17,
+      "clothesShops": 34,
+      "sportsFacilities": 41,
+      "parks": 7
+    },
+    "amenities": {
+      "schools": 4,
+      "libraries": 1,
+      "cinemas": 1
+    },
+    "healthcare": {
+      "hospitals": 1,
+      "gps": 1,
+      "dentists": 5
+    }
+  },
+  "athlone": {
+    "shops": [
+      "tesco",
+      "marks-spencer",
+      "centra",
+      "dunnes",
+      "aldi",
+      "londis",
+      "supervalu"
+    ],
+    "recreation": {
+      "pubs": 33,
+      "gyms": 12,
+      "clothesShops": 25,
+      "sportsFacilities": 82,
+      "parks": 7
+    },
+    "amenities": {
+      "schools": 5,
+      "libraries": 1,
+      "cinemas": 1
+    },
+    "healthcare": {
+      "hospitals": 0,
+      "gps": 3,
+      "dentists": 7
+    }
+  },
+  "longford-town": {
+    "shops": [
+      "dunnes",
+      "supervalu",
+      "centra",
+      "aldi",
+      "tesco",
+      "lidl"
+    ],
+    "recreation": {
+      "pubs": 5,
+      "gyms": 7,
+      "clothesShops": 7,
+      "sportsFacilities": 40,
+      "parks": 5
+    },
+    "amenities": {
+      "schools": 8,
+      "libraries": 2,
+      "cinemas": 1
+    },
+    "healthcare": {
+      "hospitals": 1,
+      "gps": 1,
+      "dentists": 0
+    }
+  },
+  "carrigaline": {
+    "shops": [
+      "supervalu",
+      "lidl",
+      "dunnes",
+      "aldi"
+    ],
+    "recreation": {
+      "pubs": 6,
+      "gyms": 16,
+      "clothesShops": 2,
+      "sportsFacilities": 36,
+      "parks": 7
+    },
+    "amenities": {
+      "schools": 10,
+      "libraries": 1,
+      "cinemas": 0
+    },
+    "healthcare": {
+      "hospitals": 0,
+      "gps": 4,
+      "dentists": 4
+    }
+  },
+  "cobh": {
+    "shops": [
+      "centra",
+      "supervalu",
+      "aldi",
+      "lidl"
+    ],
+    "recreation": {
+      "pubs": 12,
+      "gyms": 8,
+      "clothesShops": 1,
+      "sportsFacilities": 36,
+      "parks": 6
+    },
+    "amenities": {
+      "schools": 4,
+      "libraries": 1,
+      "cinemas": 0
+    },
+    "healthcare": {
+      "hospitals": 0,
+      "gps": 0,
+      "dentists": 3
+    }
+  },
+  "mallow": {
+    "shops": [
+      "dunnes",
+      "centra",
+      "supervalu",
+      "tesco",
+      "aldi",
+      "lidl"
+    ],
+    "recreation": {
+      "pubs": 11,
+      "gyms": 13,
+      "clothesShops": 10,
+      "sportsFacilities": 25,
+      "parks": 7
+    },
+    "amenities": {
+      "schools": 8,
+      "libraries": 1,
+      "cinemas": 1
+    },
+    "healthcare": {
+      "hospitals": 1,
+      "gps": 3,
+      "dentists": 0
+    }
+  },
+  "ennis": {
+    "shops": [
+      "tesco",
+      "centra",
+      "supervalu",
+      "aldi",
+      "lidl",
+      "dunnes"
+    ],
+    "recreation": {
+      "pubs": 30,
+      "gyms": 31,
+      "clothesShops": 38,
+      "sportsFacilities": 53,
+      "parks": 16
+    },
+    "amenities": {
+      "schools": 17,
+      "libraries": 4,
+      "cinemas": 1
+    },
+    "healthcare": {
+      "hospitals": 2,
+      "gps": 5,
+      "dentists": 10
+    }
+  },
+  "tramore": {
+    "shops": [
+      "centra",
+      "tesco",
+      "lidl",
+      "supervalu",
+      "aldi"
+    ],
+    "recreation": {
+      "pubs": 12,
+      "gyms": 19,
+      "clothesShops": 1,
+      "sportsFacilities": 28,
+      "parks": 5
+    },
+    "amenities": {
+      "schools": 7,
+      "libraries": 1,
+      "cinemas": 0
+    },
+    "healthcare": {
+      "hospitals": 0,
+      "gps": 1,
+      "dentists": 0
+    }
+  },
+  "tralee": {
+    "shops": [
+      "supervalu",
+      "centra",
+      "tesco",
+      "aldi",
+      "dunnes",
+      "lidl"
+    ],
+    "recreation": {
+      "pubs": 28,
+      "gyms": 29,
+      "clothesShops": 18,
+      "sportsFacilities": 51,
+      "parks": 19
+    },
+    "amenities": {
+      "schools": 13,
+      "libraries": 2,
+      "cinemas": 1
+    },
+    "healthcare": {
+      "hospitals": 2,
+      "gps": 8,
+      "dentists": 10
+    }
+  },
+  "killarney": {
+    "shops": [
+      "marks-spencer",
+      "tesco",
+      "centra",
+      "supervalu",
+      "dunnes",
+      "lidl",
+      "aldi"
+    ],
+    "recreation": {
+      "pubs": 25,
+      "gyms": 16,
+      "clothesShops": 20,
+      "sportsFacilities": 27,
+      "parks": 4
+    },
+    "amenities": {
+      "schools": 10,
+      "libraries": 1,
+      "cinemas": 2
+    },
+    "healthcare": {
+      "hospitals": 3,
+      "gps": 3,
+      "dentists": 4
+    }
+  },
+  "athenry": {
+    "shops": [
+      "tesco",
+      "londis",
+      "centra",
+      "aldi"
+    ],
+    "recreation": {
+      "pubs": 12,
+      "gyms": 8,
+      "clothesShops": 4,
+      "sportsFacilities": 28,
+      "parks": 1
+    },
+    "amenities": {
+      "schools": 9,
+      "libraries": 1,
+      "cinemas": 0
+    },
+    "healthcare": {
+      "hospitals": 0,
+      "gps": 2,
+      "dentists": 1
+    }
+  },
+  "tuam": {
+    "shops": [
+      "tesco",
+      "supervalu",
+      "lidl",
+      "centra"
+    ],
+    "recreation": {
+      "pubs": 4,
+      "gyms": 8,
+      "clothesShops": 3,
+      "sportsFacilities": 37,
+      "parks": 1
+    },
+    "amenities": {
+      "schools": 8,
+      "libraries": 1,
+      "cinemas": 0
+    },
+    "healthcare": {
+      "hospitals": 0,
+      "gps": 2,
+      "dentists": 1
+    }
+  },
+  "castlebar": {
+    "shops": [
+      "aldi",
+      "supervalu",
+      "tesco",
+      "lidl",
+      "londis",
+      "dunnes"
+    ],
+    "recreation": {
+      "pubs": 22,
+      "gyms": 17,
+      "clothesShops": 26,
+      "sportsFacilities": 43,
+      "parks": 18
+    },
+    "amenities": {
+      "schools": 9,
+      "libraries": 2,
+      "cinemas": 1
+    },
+    "healthcare": {
+      "hospitals": 2,
+      "gps": 2,
+      "dentists": 3
+    }
+  },
+  "cavan-town": {
+    "shops": [
+      "dunnes",
+      "tesco",
+      "centra",
+      "lidl",
+      "aldi",
+      "supervalu"
+    ],
+    "recreation": {
+      "pubs": 25,
+      "gyms": 24,
+      "clothesShops": 17,
+      "sportsFacilities": 59,
+      "parks": 29
+    },
+    "amenities": {
+      "schools": 11,
+      "libraries": 1,
+      "cinemas": 1
+    },
+    "healthcare": {
+      "hospitals": 3,
+      "gps": 4,
+      "dentists": 7
+    }
+  },
+  "monaghan-town": {
+    "shops": [
+      "tesco",
+      "supervalu",
+      "lidl",
+      "dunnes",
+      "aldi",
+      "londis"
+    ],
+    "recreation": {
+      "pubs": 9,
+      "gyms": 13,
+      "clothesShops": 12,
+      "sportsFacilities": 68,
+      "parks": 4
+    },
+    "amenities": {
+      "schools": 11,
+      "libraries": 1,
+      "cinemas": 1
+    },
+    "healthcare": {
+      "hospitals": 2,
+      "gps": 0,
+      "dentists": 0
+    }
+  },
+  "dundrum": {
+    "shops": [
+      "londis",
+      "supervalu",
+      "lidl",
+      "tesco",
+      "centra",
+      "dunnes",
+      "aldi",
+      "marks-spencer"
+    ],
+    "recreation": {
+      "pubs": 30,
+      "gyms": 56,
+      "clothesShops": 28,
+      "sportsFacilities": 258,
+      "parks": 57
+    },
+    "amenities": {
+      "schools": 44,
+      "libraries": 4,
+      "cinemas": 2
+    },
+    "healthcare": {
+      "hospitals": 5,
+      "gps": 10,
+      "dentists": 8
+    }
+  },
+  "rathmines": {
+    "shops": [
+      "centra",
+      "tesco",
+      "aldi",
+      "lidl",
+      "dunnes",
+      "londis",
+      "supervalu",
+      "marks-spencer"
+    ],
+    "recreation": {
+      "pubs": 334,
+      "gyms": 131,
+      "clothesShops": 151,
+      "sportsFacilities": 430,
+      "parks": 105
+    },
+    "amenities": {
+      "schools": 69,
+      "libraries": 26,
+      "cinemas": 7
+    },
+    "healthcare": {
+      "hospitals": 11,
+      "gps": 69,
+      "dentists": 59
+    }
+  },
+  "lucan": {
+    "shops": [
+      "centra",
+      "dunnes",
+      "lidl",
+      "supervalu",
+      "aldi",
+      "tesco"
+    ],
+    "recreation": {
+      "pubs": 15,
+      "gyms": 18,
+      "clothesShops": 5,
+      "sportsFacilities": 125,
+      "parks": 37
+    },
+    "amenities": {
+      "schools": 27,
+      "libraries": 1,
+      "cinemas": 0
+    },
+    "healthcare": {
+      "hospitals": 3,
+      "gps": 2,
+      "dentists": 3
+    }
+  },
+  "sandyford": {
+    "shops": [
+      "londis",
+      "supervalu",
+      "lidl",
+      "centra",
+      "dunnes",
+      "tesco",
+      "aldi",
+      "marks-spencer"
+    ],
+    "recreation": {
+      "pubs": 24,
+      "gyms": 62,
+      "clothesShops": 40,
+      "sportsFacilities": 206,
+      "parks": 43
+    },
+    "amenities": {
+      "schools": 37,
+      "libraries": 3,
+      "cinemas": 2
+    },
+    "healthcare": {
+      "hospitals": 3,
+      "gps": 12,
+      "dentists": 11
+    }
+  },
+  "drogheda": {
+    "shops": [
+      "londis",
+      "tesco",
+      "dunnes",
+      "supervalu",
+      "aldi",
+      "lidl",
+      "centra"
+    ],
+    "recreation": {
+      "pubs": 29,
+      "gyms": 21,
+      "clothesShops": 3,
+      "sportsFacilities": 57,
+      "parks": 18
+    },
+    "amenities": {
+      "schools": 18,
+      "libraries": 2,
+      "cinemas": 0
+    },
+    "healthcare": {
+      "hospitals": 2,
+      "gps": 4,
+      "dentists": 1
+    }
+  },
+  "dundalk": {
+    "shops": [
+      "tesco",
+      "centra",
+      "dunnes",
+      "londis",
+      "lidl",
+      "aldi"
+    ],
+    "recreation": {
+      "pubs": 39,
+      "gyms": 22,
+      "clothesShops": 18,
+      "sportsFacilities": 108,
+      "parks": 16
+    },
+    "amenities": {
+      "schools": 19,
+      "libraries": 1,
+      "cinemas": 2
+    },
+    "healthcare": {
+      "hospitals": 0,
+      "gps": 4,
+      "dentists": 2
+    }
+  },
+  "navan": {
+    "shops": [
+      "dunnes",
+      "tesco",
+      "supervalu",
+      "centra",
+      "marks-spencer",
+      "londis",
+      "aldi",
+      "lidl"
+    ],
+    "recreation": {
+      "pubs": 20,
+      "gyms": 20,
+      "clothesShops": 14,
+      "sportsFacilities": 70,
+      "parks": 5
+    },
+    "amenities": {
+      "schools": 15,
+      "libraries": 1,
+      "cinemas": 1
+    },
+    "healthcare": {
+      "hospitals": 2,
+      "gps": 1,
+      "dentists": 0
+    }
+  },
+  "arklow": {
+    "shops": [
+      "dunnes",
+      "supervalu",
+      "centra",
+      "tesco",
+      "aldi",
+      "lidl"
+    ],
+    "recreation": {
+      "pubs": 19,
+      "gyms": 13,
+      "clothesShops": 11,
+      "sportsFacilities": 32,
+      "parks": 10
+    },
+    "amenities": {
+      "schools": 12,
+      "libraries": 2,
+      "cinemas": 3
+    },
+    "healthcare": {
+      "hospitals": 0,
+      "gps": 0,
+      "dentists": 0
+    }
+  },
+  "portlaoise": {
+    "shops": [
+      "tesco",
+      "supervalu",
+      "dunnes",
+      "centra",
+      "aldi",
+      "lidl"
+    ],
+    "recreation": {
+      "pubs": 24,
+      "gyms": 16,
+      "clothesShops": 12,
+      "sportsFacilities": 65,
+      "parks": 35
+    },
+    "amenities": {
+      "schools": 11,
+      "libraries": 3,
+      "cinemas": 1
+    },
+    "healthcare": {
+      "hospitals": 2,
+      "gps": 0,
+      "dentists": 2
+    }
+  },
+  "cork-city": {
+    "shops": [
+      "tesco",
+      "londis",
+      "aldi",
+      "supervalu",
+      "centra",
+      "dunnes",
+      "lidl",
+      "marks-spencer"
+    ],
+    "recreation": {
+      "pubs": 162,
+      "gyms": 82,
+      "clothesShops": 65,
+      "sportsFacilities": 207,
+      "parks": 71
+    },
+    "amenities": {
+      "schools": 56,
+      "libraries": 9,
+      "cinemas": 2
+    },
+    "healthcare": {
+      "hospitals": 7,
+      "gps": 24,
+      "dentists": 25
+    }
+  },
+  "waterford-city": {
+    "shops": [
+      "supervalu",
+      "tesco",
+      "centra",
+      "londis",
+      "dunnes",
+      "aldi",
+      "lidl"
+    ],
+    "recreation": {
+      "pubs": 60,
+      "gyms": 40,
+      "clothesShops": 34,
+      "sportsFacilities": 118,
+      "parks": 18
+    },
+    "amenities": {
+      "schools": 24,
+      "libraries": 7,
+      "cinemas": 2
+    },
+    "healthcare": {
+      "hospitals": 3,
+      "gps": 15,
+      "dentists": 8
+    }
+  },
+  "dungarvan": {
+    "shops": [
+      "dunnes",
+      "supervalu",
+      "centra",
+      "aldi",
+      "lidl"
+    ],
+    "recreation": {
+      "pubs": 11,
+      "gyms": 13,
+      "clothesShops": 5,
+      "sportsFacilities": 23,
+      "parks": 3
+    },
+    "amenities": {
+      "schools": 8,
+      "libraries": 1,
+      "cinemas": 1
+    },
+    "healthcare": {
+      "hospitals": 1,
+      "gps": 0,
+      "dentists": 0
+    }
+  },
+  "oranmore": {
+    "shops": [
+      "supervalu",
+      "lidl",
+      "tesco",
+      "centra",
+      "aldi"
+    ],
+    "recreation": {
+      "pubs": 6,
+      "gyms": 9,
+      "clothesShops": 1,
+      "sportsFacilities": 15,
+      "parks": 11
+    },
+    "amenities": {
+      "schools": 3,
+      "libraries": 1,
+      "cinemas": 1
+    },
+    "healthcare": {
+      "hospitals": 0,
+      "gps": 0,
+      "dentists": 0
+    }
+  },
+  "ballina": {
+    "shops": [
+      "supervalu",
+      "londis",
+      "aldi",
+      "lidl",
+      "dunnes",
+      "tesco"
+    ],
+    "recreation": {
+      "pubs": 10,
+      "gyms": 14,
+      "clothesShops": 6,
+      "sportsFacilities": 52,
+      "parks": 2
+    },
+    "amenities": {
+      "schools": 4,
+      "libraries": 1,
+      "cinemas": 1
+    },
+    "healthcare": {
+      "hospitals": 1,
+      "gps": 1,
+      "dentists": 0
+    }
+  },
+  "roscommon-town": {
+    "shops": [
+      "aldi",
+      "centra",
+      "supervalu",
+      "londis",
+      "dunnes",
+      "tesco",
+      "lidl"
+    ],
+    "recreation": {
+      "pubs": 11,
+      "gyms": 10,
+      "clothesShops": 1,
+      "sportsFacilities": 23,
+      "parks": 1
+    },
+    "amenities": {
+      "schools": 6,
+      "libraries": 1,
+      "cinemas": 1
+    },
+    "healthcare": {
+      "hospitals": 1,
+      "gps": 1,
+      "dentists": 1
+    }
+  },
+  "dun-laoghaire": {
+    "shops": [
+      "tesco",
+      "supervalu",
+      "lidl",
+      "centra",
+      "aldi",
+      "dunnes"
+    ],
+    "recreation": {
+      "pubs": 30,
+      "gyms": 54,
+      "clothesShops": 29,
+      "sportsFacilities": 149,
+      "parks": 40
+    },
+    "amenities": {
+      "schools": 28,
+      "libraries": 5,
+      "cinemas": 1
+    },
+    "healthcare": {
+      "hospitals": 2,
+      "gps": 18,
+      "dentists": 18
+    }
+  },
+  "mullingar": {
+    "shops": [
+      "dunnes",
+      "centra",
+      "tesco",
+      "supervalu",
+      "aldi",
+      "londis",
+      "lidl"
+    ],
+    "recreation": {
+      "pubs": 25,
+      "gyms": 19,
+      "clothesShops": 17,
+      "sportsFacilities": 30,
+      "parks": 6
+    },
+    "amenities": {
+      "schools": 14,
+      "libraries": 1,
+      "cinemas": 2
+    },
+    "healthcare": {
+      "hospitals": 5,
+      "gps": 3,
+      "dentists": 2
+    }
+  },
+  "ballincollig": {
+    "shops": [
+      "dunnes",
+      "centra",
+      "aldi",
+      "supervalu",
+      "tesco",
+      "lidl"
+    ],
+    "recreation": {
+      "pubs": 11,
+      "gyms": 22,
+      "clothesShops": 10,
+      "sportsFacilities": 53,
+      "parks": 2
+    },
+    "amenities": {
+      "schools": 11,
+      "libraries": 1,
+      "cinemas": 1
+    },
+    "healthcare": {
+      "hospitals": 0,
+      "gps": 7,
+      "dentists": 5
+    }
+  },
+  "shannon": {
+    "shops": [
+      "dunnes",
+      "londis",
+      "tesco",
+      "lidl"
+    ],
+    "recreation": {
+      "pubs": 2,
+      "gyms": 10,
+      "clothesShops": 0,
+      "sportsFacilities": 44,
+      "parks": 3
+    },
+    "amenities": {
+      "schools": 9,
+      "libraries": 1,
+      "cinemas": 1
+    },
+    "healthcare": {
+      "hospitals": 0,
+      "gps": 0,
+      "dentists": 0
+    }
+  },
+  "sligo-town": {
+    "shops": [
+      "tesco",
+      "centra",
+      "londis",
+      "dunnes",
+      "aldi",
+      "lidl"
+    ],
+    "recreation": {
+      "pubs": 39,
+      "gyms": 18,
+      "clothesShops": 13,
+      "sportsFacilities": 65,
+      "parks": 92
+    },
+    "amenities": {
+      "schools": 3,
+      "libraries": 1,
+      "cinemas": 1
+    },
+    "healthcare": {
+      "hospitals": 0,
+      "gps": 3,
+      "dentists": 3
+    }
+  },
+  "donegal-town": {
+    "shops": [
+      "aldi",
+      "londis",
+      "supervalu",
+      "lidl"
+    ],
+    "recreation": {
+      "pubs": 14,
+      "gyms": 3,
+      "clothesShops": 9,
+      "sportsFacilities": 12,
+      "parks": 3
+    },
+    "amenities": {
+      "schools": 4,
+      "libraries": 1,
+      "cinemas": 0
+    },
+    "healthcare": {
+      "hospitals": 1,
+      "gps": 2,
+      "dentists": 1
+    }
+  },
+  "carlow-town": {
+    "shops": [
+      "tesco",
+      "dunnes",
+      "londis",
+      "supervalu",
+      "centra",
+      "aldi",
+      "lidl"
+    ],
+    "recreation": {
+      "pubs": 24,
+      "gyms": 18,
+      "clothesShops": 14,
+      "sportsFacilities": 64,
+      "parks": 14
+    },
+    "amenities": {
+      "schools": 12,
+      "libraries": 1,
+      "cinemas": 2
+    },
+    "healthcare": {
+      "hospitals": 1,
+      "gps": 3,
+      "dentists": 4
+    }
+  },
+  "thurles": {
+    "shops": [
+      "dunnes",
+      "centra",
+      "aldi",
+      "tesco",
+      "londis",
+      "lidl"
+    ],
+    "recreation": {
+      "pubs": 23,
+      "gyms": 21,
+      "clothesShops": 12,
+      "sportsFacilities": 49,
+      "parks": 3
+    },
+    "amenities": {
+      "schools": 9,
+      "libraries": 1,
+      "cinemas": 1
+    },
+    "healthcare": {
+      "hospitals": 1,
+      "gps": 1,
+      "dentists": 5
+    }
+  }
+}
