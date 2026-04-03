@@ -28,6 +28,8 @@ export const IRISH_AREAS: IrishArea[] = [
     healthcare: { hospitals: 21, gps: 65, dentists: 62 },
     grants: { helpToBuy: true, firstHomeScheme: true, localAuthorityLoan: true, vacantPropertyGrant: true, seiGrants: true },
     description: "Ireland's capital with world-class amenities, excellent transport links, and vibrant culture. Premium prices but unmatched urban convenience.",
+    costOfLiving: 30,
+    airQuality: 42,
   },
   {
     id: 'dun-laoghaire',
@@ -44,6 +46,8 @@ export const IRISH_AREAS: IrishArea[] = [
     healthcare: { hospitals: 2, gps: 18, dentists: 18 },
     grants: { helpToBuy: true, firstHomeScheme: true, localAuthorityLoan: true, vacantPropertyGrant: false, seiGrants: true },
     description: 'Elegant coastal town with DART access, excellent harbour, and a wide range of shops and restaurants. Very popular with families.',
+    costOfLiving: 36,
+    airQuality: 68,
   },
   {
     id: 'blackrock',
@@ -60,6 +64,8 @@ export const IRISH_AREAS: IrishArea[] = [
     healthcare: { hospitals: 5, gps: 20, dentists: 24 },
     grants: { helpToBuy: false, firstHomeScheme: false, localAuthorityLoan: true, vacantPropertyGrant: false, seiGrants: true },
     description: 'Affluent coastal suburb with DART link, excellent schools, and boutique shopping. Among the most sought-after addresses in Dublin.',
+    costOfLiving: 34,
+    airQuality: 65,
   },
   {
     id: 'dundrum',
@@ -76,6 +82,8 @@ export const IRISH_AREAS: IrishArea[] = [
     healthcare: { hospitals: 5, gps: 10, dentists: 8 },
     grants: { helpToBuy: true, firstHomeScheme: true, localAuthorityLoan: true, vacantPropertyGrant: false, seiGrants: true },
     description: 'Major suburban hub with Luas Green Line, Ireland\'s largest shopping centre, and proximity to the Dublin Mountains.',
+    costOfLiving: 40,
+    airQuality: 58,
   },
   {
     id: 'ranelagh',
@@ -92,6 +100,8 @@ export const IRISH_AREAS: IrishArea[] = [
     healthcare: { hospitals: 10, gps: 65, dentists: 57 },
     grants: { helpToBuy: false, firstHomeScheme: false, localAuthorityLoan: true, vacantPropertyGrant: false, seiGrants: true },
     description: 'Trendy inner suburb on the Luas Green Line. Packed with restaurants, cafes, and independent shops. Very walkable.',
+    costOfLiving: 36,
+    airQuality: 52,
   },
   {
     id: 'rathmines',
@@ -108,6 +118,8 @@ export const IRISH_AREAS: IrishArea[] = [
     healthcare: { hospitals: 11, gps: 69, dentists: 59 },
     grants: { helpToBuy: true, firstHomeScheme: true, localAuthorityLoan: true, vacantPropertyGrant: true, seiGrants: true },
     description: 'Lively urban neighbourhood with dense bus links, good shops, and a large student population. Great value relative to nearby areas.',
+    costOfLiving: 38,
+    airQuality: 50,
   },
   {
     id: 'swords',
@@ -124,6 +136,8 @@ export const IRISH_AREAS: IrishArea[] = [
     healthcare: { hospitals: 0, gps: 6, dentists: 5 },
     grants: { helpToBuy: true, firstHomeScheme: true, localAuthorityLoan: true, vacantPropertyGrant: false, seiGrants: true },
     description: 'Large, well-serviced town north of Dublin with excellent shops, good bus links, and more affordable prices than the city.',
+    costOfLiving: 46,
+    airQuality: 62,
   },
   {
     id: 'blanchardstown',
@@ -140,6 +154,8 @@ export const IRISH_AREAS: IrishArea[] = [
     healthcare: { hospitals: 1, gps: 6, dentists: 6 },
     grants: { helpToBuy: true, firstHomeScheme: true, localAuthorityLoan: true, vacantPropertyGrant: false, seiGrants: true },
     description: "One of Dublin's largest suburban areas with a huge retail park, hospital, and good bus network. Affordable family living.",
+    costOfLiving: 47,
+    airQuality: 60,
   },
   {
     id: 'tallaght',
@@ -156,6 +172,8 @@ export const IRISH_AREAS: IrishArea[] = [
     healthcare: { hospitals: 1, gps: 9, dentists: 7 },
     grants: { helpToBuy: true, firstHomeScheme: true, localAuthorityLoan: true, vacantPropertyGrant: false, seiGrants: true },
     description: 'Large southwest Dublin town with Luas Red Line and good amenities. Among the most affordable Dublin areas with good public transport.',
+    costOfLiving: 51,
+    airQuality: 58,
   },
   {
     id: 'clondalkin',
@@ -172,6 +190,8 @@ export const IRISH_AREAS: IrishArea[] = [
     healthcare: { hospitals: 1, gps: 1, dentists: 4 },
     grants: { helpToBuy: true, firstHomeScheme: true, localAuthorityLoan: true, vacantPropertyGrant: false, seiGrants: true },
     description: 'Affordable west Dublin suburb with a historic round tower, reasonable bus connections, and essential shops.',
+    costOfLiving: 51,
+    airQuality: 60,
   },
   {
     id: 'lucan',
@@ -188,6 +208,8 @@ export const IRISH_AREAS: IrishArea[] = [
     healthcare: { hospitals: 3, gps: 2, dentists: 3 },
     grants: { helpToBuy: true, firstHomeScheme: true, localAuthorityLoan: true, vacantPropertyGrant: false, seiGrants: true },
     description: 'Growing commuter town on the western edge of Dublin with a strong family demographic and good local schools.',
+    costOfLiving: 49,
+    airQuality: 63,
   },
   {
     id: 'bray',
@@ -204,6 +226,8 @@ export const IRISH_AREAS: IrishArea[] = [
     healthcare: { hospitals: 0, gps: 6, dentists: 4 },
     grants: { helpToBuy: true, firstHomeScheme: true, localAuthorityLoan: true, vacantPropertyGrant: false, seiGrants: true },
     description: 'Seaside town with DART to Dublin, great beach, Bray Head walking, and a lively town centre. Excellent for coastal living with city access.',
+    costOfLiving: 46,
+    airQuality: 72,
   },
   {
     id: 'greystones',
@@ -220,6 +244,8 @@ export const IRISH_AREAS: IrishArea[] = [
     healthcare: { hospitals: 0, gps: 4, dentists: 7 },
     grants: { helpToBuy: true, firstHomeScheme: true, localAuthorityLoan: true, vacantPropertyGrant: false, seiGrants: true },
     description: 'Charming coastal town at the end of the DART line. Beautiful beach, harbour, and access to Wicklow hiking. Increasingly popular with families.',
+    costOfLiving: 44,
+    airQuality: 78,
   },
   {
     id: 'malahide',
@@ -236,6 +262,8 @@ export const IRISH_AREAS: IrishArea[] = [
     healthcare: { hospitals: 0, gps: 10, dentists: 10 },
     grants: { helpToBuy: true, firstHomeScheme: true, localAuthorityLoan: true, vacantPropertyGrant: false, seiGrants: true },
     description: 'Pretty seaside village north of Dublin with commuter rail, marina, castle grounds, and excellent restaurants.',
+    costOfLiving: 41,
+    airQuality: 76,
   },
   {
     id: 'howth',
@@ -252,6 +280,8 @@ export const IRISH_AREAS: IrishArea[] = [
     healthcare: { hospitals: 1, gps: 3, dentists: 2 },
     grants: { helpToBuy: false, firstHomeScheme: false, localAuthorityLoan: true, vacantPropertyGrant: false, seiGrants: true },
     description: 'Dramatic cliff-top fishing village on the DART. Stunning scenery, fresh seafood, and a tight-knit community. Limited shops but magical setting.',
+    costOfLiving: 39,
+    airQuality: 82,
   },
   {
     id: 'sandyford',
@@ -268,6 +298,8 @@ export const IRISH_AREAS: IrishArea[] = [
     healthcare: { hospitals: 3, gps: 12, dentists: 11 },
     grants: { helpToBuy: true, firstHomeScheme: true, localAuthorityLoan: true, vacantPropertyGrant: false, seiGrants: true },
     description: 'Major business hub on the Luas Green Line near the Dublin Mountains. Popular with tech workers, good transport, and newer apartments.',
+    costOfLiving: 42,
+    airQuality: 65,
   },
 
   // ── LEINSTER (non-Dublin) ─────────────────────────────────────────────────
@@ -287,6 +319,8 @@ export const IRISH_AREAS: IrishArea[] = [
     healthcare: { hospitals: 2, gps: 4, dentists: 1 },
     grants: { helpToBuy: true, firstHomeScheme: true, localAuthorityLoan: true, vacantPropertyGrant: true, seiGrants: true },
     description: "Ireland's largest town with fast rail to Dublin (50 min), full range of shops, and relatively affordable housing. Popular commuter belt.",
+    costOfLiving: 60,
+    airQuality: 60,
   },
   {
     id: 'dundalk',
@@ -303,6 +337,8 @@ export const IRISH_AREAS: IrishArea[] = [
     healthcare: { hospitals: 0, gps: 4, dentists: 2 },
     grants: { helpToBuy: true, firstHomeScheme: true, localAuthorityLoan: true, vacantPropertyGrant: true, seiGrants: true },
     description: 'Major border town with rail links, DKIT, and proximity to the Cooley Peninsula mountains. Very affordable.',
+    costOfLiving: 62,
+    airQuality: 58,
   },
   {
     id: 'naas',
@@ -319,6 +355,8 @@ export const IRISH_AREAS: IrishArea[] = [
     healthcare: { hospitals: 1, gps: 4, dentists: 5 },
     grants: { helpToBuy: true, firstHomeScheme: true, localAuthorityLoan: true, vacantPropertyGrant: false, seiGrants: true },
     description: 'County town of Kildare with great bus links to Dublin, full retail choice, and good family amenities.',
+    costOfLiving: 58,
+    airQuality: 63,
   },
   {
     id: 'newbridge',
@@ -335,6 +373,8 @@ export const IRISH_AREAS: IrishArea[] = [
     healthcare: { hospitals: 0, gps: 1, dentists: 2 },
     grants: { helpToBuy: true, firstHomeScheme: true, localAuthorityLoan: true, vacantPropertyGrant: false, seiGrants: true },
     description: 'Growing commuter town with good rail link to Dublin (Heuston). Outlet shopping, good schools, and one of Kildare\'s more affordable towns.',
+    costOfLiving: 62,
+    airQuality: 63,
   },
   {
     id: 'maynooth',
@@ -351,6 +391,8 @@ export const IRISH_AREAS: IrishArea[] = [
     healthcare: { hospitals: 0, gps: 5, dentists: 3 },
     grants: { helpToBuy: true, firstHomeScheme: true, localAuthorityLoan: true, vacantPropertyGrant: false, seiGrants: true },
     description: 'University town with frequent rail service to Dublin. Vibrant student atmosphere, good shops, and strong community.',
+    costOfLiving: 56,
+    airQuality: 65,
   },
   {
     id: 'navan',
@@ -367,6 +409,8 @@ export const IRISH_AREAS: IrishArea[] = [
     healthcare: { hospitals: 2, gps: 1, dentists: 0 },
     grants: { helpToBuy: true, firstHomeScheme: true, localAuthorityLoan: true, vacantPropertyGrant: true, seiGrants: true },
     description: 'County town of Meath with a large shopping centre, good bus to Dublin, and affordable housing. Strong road links.',
+    costOfLiving: 64,
+    airQuality: 64,
   },
   {
     id: 'kilkenny-city',
@@ -383,6 +427,8 @@ export const IRISH_AREAS: IrishArea[] = [
     healthcare: { hospitals: 4, gps: 17, dentists: 14 },
     grants: { helpToBuy: true, firstHomeScheme: true, localAuthorityLoan: true, vacantPropertyGrant: true, seiGrants: true },
     description: 'Medieval city with a beautiful castle, craft beer culture, and lively arts scene. Good train link to Dublin and Cork. Very liveable.',
+    costOfLiving: 60,
+    airQuality: 68,
   },
   {
     id: 'wexford-town',
@@ -399,6 +445,8 @@ export const IRISH_AREAS: IrishArea[] = [
     healthcare: { hospitals: 2, gps: 12, dentists: 15 },
     grants: { helpToBuy: true, firstHomeScheme: true, localAuthorityLoan: true, vacantPropertyGrant: true, seiGrants: true },
     description: 'Historic Viking town with good rail link, attractive quays, Opera Festival fame, and nearby beaches. Underrated and affordable.',
+    costOfLiving: 62,
+    airQuality: 70,
   },
   {
     id: 'carlow-town',
@@ -415,6 +463,8 @@ export const IRISH_AREAS: IrishArea[] = [
     healthcare: { hospitals: 1, gps: 3, dentists: 4 },
     grants: { helpToBuy: true, firstHomeScheme: true, localAuthorityLoan: true, vacantPropertyGrant: true, seiGrants: true },
     description: 'Compact county town with IT Carlow, good train to Dublin, and very affordable property. Ideal for first-time buyers.',
+    costOfLiving: 65,
+    airQuality: 66,
   },
   {
     id: 'mullingar',
@@ -431,6 +481,8 @@ export const IRISH_AREAS: IrishArea[] = [
     healthcare: { hospitals: 5, gps: 3, dentists: 2 },
     grants: { helpToBuy: true, firstHomeScheme: true, localAuthorityLoan: true, vacantPropertyGrant: true, seiGrants: true },
     description: 'Midlands market town with good rail access, full range of shops, and lakeside recreation. Very affordable housing.',
+    costOfLiving: 64,
+    airQuality: 68,
   },
   {
     id: 'arklow',
@@ -447,6 +499,8 @@ export const IRISH_AREAS: IrishArea[] = [
     healthcare: { hospitals: 0, gps: 0, dentists: 0 },
     grants: { helpToBuy: true, firstHomeScheme: true, localAuthorityLoan: true, vacantPropertyGrant: true, seiGrants: true },
     description: 'Coastal Wicklow town with train link, beaches, and access to Wicklow Mountains. Affordable with improving infrastructure.',
+    costOfLiving: 66,
+    airQuality: 72,
   },
   {
     id: 'gorey',
@@ -463,6 +517,8 @@ export const IRISH_AREAS: IrishArea[] = [
     healthcare: { hospitals: 1, gps: 1, dentists: 5 },
     grants: { helpToBuy: true, firstHomeScheme: true, localAuthorityLoan: true, vacantPropertyGrant: true, seiGrants: true },
     description: 'North Wexford town on the Dublin-Rosslare rail line, popular with commuters and families. Near beaches and with good schools.',
+    costOfLiving: 64,
+    airQuality: 72,
   },
   {
     id: 'athlone',
@@ -479,6 +535,8 @@ export const IRISH_AREAS: IrishArea[] = [
     healthcare: { hospitals: 0, gps: 3, dentists: 7 },
     grants: { helpToBuy: true, firstHomeScheme: true, localAuthorityLoan: true, vacantPropertyGrant: true, seiGrants: true },
     description: 'The heart of Ireland on the Shannon, with strong rail connections east and west, good shops, and a vibrant town centre on a beautiful river.',
+    costOfLiving: 61,
+    airQuality: 67,
   },
   {
     id: 'portlaoise',
@@ -495,6 +553,8 @@ export const IRISH_AREAS: IrishArea[] = [
     healthcare: { hospitals: 2, gps: 0, dentists: 2 },
     grants: { helpToBuy: true, firstHomeScheme: true, localAuthorityLoan: true, vacantPropertyGrant: true, seiGrants: true },
     description: "Midlands county town with one of Ireland's fastest rail links to Dublin (75 min). Very affordable housing market.",
+    costOfLiving: 63,
+    airQuality: 65,
   },
   {
     id: 'tullamore',
@@ -511,6 +571,8 @@ export const IRISH_AREAS: IrishArea[] = [
     healthcare: { hospitals: 1, gps: 9, dentists: 4 },
     grants: { helpToBuy: true, firstHomeScheme: true, localAuthorityLoan: true, vacantPropertyGrant: true, seiGrants: true },
     description: 'Offaly county town, home of Tullamore Dew. Good train link, affordable prices, and a relaxed midlands lifestyle.',
+    costOfLiving: 64,
+    airQuality: 67,
   },
   {
     id: 'longford-town',
@@ -527,6 +589,8 @@ export const IRISH_AREAS: IrishArea[] = [
     healthcare: { hospitals: 1, gps: 1, dentists: 0 },
     grants: { helpToBuy: false, firstHomeScheme: false, localAuthorityLoan: true, vacantPropertyGrant: true, seiGrants: true },
     description: 'One of Ireland\'s most affordable towns with a train line and essential services. Great for buyers on tight budgets seeking space.',
+    costOfLiving: 69,
+    airQuality: 70,
   },
 
   // ── MUNSTER ───────────────────────────────────────────────────────────────
@@ -546,6 +610,8 @@ export const IRISH_AREAS: IrishArea[] = [
     healthcare: { hospitals: 7, gps: 24, dentists: 25 },
     grants: { helpToBuy: true, firstHomeScheme: true, localAuthorityLoan: true, vacantPropertyGrant: true, seiGrants: true },
     description: "Ireland's second city with excellent amenities, a great food scene, UCC, and strong employment. More affordable than Dublin.",
+    costOfLiving: 46,
+    airQuality: 48,
   },
   {
     id: 'ballincollig',
@@ -562,6 +628,8 @@ export const IRISH_AREAS: IrishArea[] = [
     healthcare: { hospitals: 0, gps: 7, dentists: 5 },
     grants: { helpToBuy: true, firstHomeScheme: true, localAuthorityLoan: true, vacantPropertyGrant: false, seiGrants: true },
     description: 'Large Cork suburb with a regional park, good shops, and strong family community. Popular alternative to Cork City centre.',
+    costOfLiving: 51,
+    airQuality: 65,
   },
   {
     id: 'carrigaline',
@@ -578,6 +646,8 @@ export const IRISH_AREAS: IrishArea[] = [
     healthcare: { hospitals: 0, gps: 4, dentists: 4 },
     grants: { helpToBuy: true, firstHomeScheme: true, localAuthorityLoan: true, vacantPropertyGrant: false, seiGrants: true },
     description: 'Fast-growing Cork commuter town with access to nearby harbour villages and beaches. Great family infrastructure.',
+    costOfLiving: 49,
+    airQuality: 70,
   },
   {
     id: 'cobh',
@@ -594,6 +664,8 @@ export const IRISH_AREAS: IrishArea[] = [
     healthcare: { hospitals: 0, gps: 0, dentists: 3 },
     grants: { helpToBuy: true, firstHomeScheme: true, localAuthorityLoan: true, vacantPropertyGrant: true, seiGrants: true },
     description: 'Colourful harbour island town with a commuter rail link to Cork city. Stunning waterfront and Titanic heritage. Surprisingly affordable.',
+    costOfLiving: 52,
+    airQuality: 72,
   },
   {
     id: 'midleton',
@@ -610,6 +682,8 @@ export const IRISH_AREAS: IrishArea[] = [
     healthcare: { hospitals: 1, gps: 1, dentists: 0 },
     grants: { helpToBuy: true, firstHomeScheme: true, localAuthorityLoan: true, vacantPropertyGrant: false, seiGrants: true },
     description: 'Home of Jameson Distillery and Ballymaloe Cookery School. Commuter rail to Cork, growing town centre, and great food culture.',
+    costOfLiving: 51,
+    airQuality: 68,
   },
   {
     id: 'mallow',
@@ -626,6 +700,8 @@ export const IRISH_AREAS: IrishArea[] = [
     healthcare: { hospitals: 1, gps: 3, dentists: 0 },
     grants: { helpToBuy: true, firstHomeScheme: true, localAuthorityLoan: true, vacantPropertyGrant: true, seiGrants: true },
     description: 'North Cork rail hub with good connections to both Cork city and Limerick. Affordable property and good local services.',
+    costOfLiving: 64,
+    airQuality: 70,
   },
   {
     id: 'limerick-city',
@@ -642,6 +718,8 @@ export const IRISH_AREAS: IrishArea[] = [
     healthcare: { hospitals: 6, gps: 11, dentists: 15 },
     grants: { helpToBuy: true, firstHomeScheme: true, localAuthorityLoan: true, vacantPropertyGrant: true, seiGrants: true },
     description: "Rapidly improving city with Ireland's most affordable house prices among large cities. University of Limerick, great nightlife, and strong jobs.",
+    costOfLiving: 51,
+    airQuality: 50,
   },
   {
     id: 'ennis',
@@ -658,6 +736,8 @@ export const IRISH_AREAS: IrishArea[] = [
     healthcare: { hospitals: 2, gps: 5, dentists: 10 },
     grants: { helpToBuy: true, firstHomeScheme: true, localAuthorityLoan: true, vacantPropertyGrant: true, seiGrants: true },
     description: "Clare county town with a well-preserved medieval street layout, rail link, and proximity to both Limerick and Galway. Great trad music scene.",
+    costOfLiving: 56,
+    airQuality: 70,
   },
   {
     id: 'shannon',
@@ -674,6 +754,8 @@ export const IRISH_AREAS: IrishArea[] = [
     healthcare: { hospitals: 0, gps: 0, dentists: 0 },
     grants: { helpToBuy: true, firstHomeScheme: true, localAuthorityLoan: true, vacantPropertyGrant: true, seiGrants: true },
     description: 'Planned town beside Shannon International Airport with affordable housing and access to Limerick.',
+    costOfLiving: 58,
+    airQuality: 62,
   },
   {
     id: 'waterford-city',
@@ -690,6 +772,8 @@ export const IRISH_AREAS: IrishArea[] = [
     healthcare: { hospitals: 3, gps: 15, dentists: 8 },
     grants: { helpToBuy: true, firstHomeScheme: true, localAuthorityLoan: true, vacantPropertyGrant: true, seiGrants: true },
     description: "Ireland's oldest city on a beautiful river. Viking heritage, excellent amenities, and very affordable property. Underrated.",
+    costOfLiving: 53,
+    airQuality: 57,
   },
   {
     id: 'tramore',
@@ -706,6 +790,8 @@ export const IRISH_AREAS: IrishArea[] = [
     healthcare: { hospitals: 0, gps: 1, dentists: 0 },
     grants: { helpToBuy: true, firstHomeScheme: true, localAuthorityLoan: true, vacantPropertyGrant: true, seiGrants: true },
     description: "Waterford's seaside resort with a 5km beach, good surf, and lovely cliff walks. 15 minutes from Waterford city.",
+    costOfLiving: 56,
+    airQuality: 78,
   },
   {
     id: 'dungarvan',
@@ -722,6 +808,8 @@ export const IRISH_AREAS: IrishArea[] = [
     healthcare: { hospitals: 1, gps: 0, dentists: 0 },
     grants: { helpToBuy: true, firstHomeScheme: true, localAuthorityLoan: true, vacantPropertyGrant: true, seiGrants: true },
     description: 'Charming harbour town, foodie capital of Waterford. Coastal walks, good amenities, and a tight-knit community.',
+    costOfLiving: 61,
+    airQuality: 74,
   },
   {
     id: 'tralee',
@@ -738,6 +826,8 @@ export const IRISH_AREAS: IrishArea[] = [
     healthcare: { hospitals: 2, gps: 8, dentists: 10 },
     grants: { helpToBuy: true, firstHomeScheme: true, localAuthorityLoan: true, vacantPropertyGrant: true, seiGrants: true },
     description: "Kerry's county town with a train link, full range of shops, and the stunning Tralee-Blennerville canal walk. Gateway to Kerry's Ring.",
+    costOfLiving: 59,
+    airQuality: 68,
   },
   {
     id: 'killarney',
@@ -754,6 +844,8 @@ export const IRISH_AREAS: IrishArea[] = [
     healthcare: { hospitals: 3, gps: 3, dentists: 4 },
     grants: { helpToBuy: true, firstHomeScheme: true, localAuthorityLoan: true, vacantPropertyGrant: true, seiGrants: true },
     description: 'Surrounded by the most spectacular national park in Ireland. Tourism-driven economy keeps it lively year-round. Train to Cork and Dublin.',
+    costOfLiving: 47,
+    airQuality: 78,
   },
   {
     id: 'clonmel',
@@ -770,6 +862,8 @@ export const IRISH_AREAS: IrishArea[] = [
     healthcare: { hospitals: 1, gps: 0, dentists: 8 },
     grants: { helpToBuy: true, firstHomeScheme: true, localAuthorityLoan: true, vacantPropertyGrant: true, seiGrants: true },
     description: "South Tipperary's largest town on the River Suir with the Comeragh Mountains nearby. Good shopping, affordable housing.",
+    costOfLiving: 61,
+    airQuality: 65,
   },
   {
     id: 'thurles',
@@ -786,6 +880,8 @@ export const IRISH_AREAS: IrishArea[] = [
     healthcare: { hospitals: 1, gps: 1, dentists: 5 },
     grants: { helpToBuy: false, firstHomeScheme: false, localAuthorityLoan: true, vacantPropertyGrant: true, seiGrants: true },
     description: 'Heartland of Tipperary GAA with a mainline train stop. Quiet town living at very low prices. Good for remote workers.',
+    costOfLiving: 66,
+    airQuality: 68,
   },
 
   // ── CONNACHT ──────────────────────────────────────────────────────────────
@@ -805,6 +901,8 @@ export const IRISH_AREAS: IrishArea[] = [
     healthcare: { hospitals: 3, gps: 22, dentists: 25 },
     grants: { helpToBuy: true, firstHomeScheme: true, localAuthorityLoan: true, vacantPropertyGrant: true, seiGrants: true },
     description: "Ireland's cultural capital with world-class arts, University of Galway, Galway Bay, and Connemara on the doorstep. Vibrant and youthful.",
+    costOfLiving: 46,
+    airQuality: 53,
   },
   {
     id: 'salthill',
@@ -821,6 +919,8 @@ export const IRISH_AREAS: IrishArea[] = [
     healthcare: { hospitals: 1, gps: 17, dentists: 15 },
     grants: { helpToBuy: true, firstHomeScheme: true, localAuthorityLoan: true, vacantPropertyGrant: false, seiGrants: true },
     description: "Galway's seaside suburb with a famous promenade, Leisureland, and easy city access by bus. Great for beach lovers.",
+    costOfLiving: 44,
+    airQuality: 72,
   },
   {
     id: 'athenry',
@@ -837,6 +937,8 @@ export const IRISH_AREAS: IrishArea[] = [
     healthcare: { hospitals: 0, gps: 2, dentists: 1 },
     grants: { helpToBuy: true, firstHomeScheme: true, localAuthorityLoan: true, vacantPropertyGrant: true, seiGrants: true },
     description: 'Medieval walled market town with rail access to both Galway and Dublin. Growing commuter base for Galway, with affordable family homes.',
+    costOfLiving: 61,
+    airQuality: 76,
   },
   {
     id: 'tuam',
@@ -853,6 +955,8 @@ export const IRISH_AREAS: IrishArea[] = [
     healthcare: { hospitals: 0, gps: 2, dentists: 1 },
     grants: { helpToBuy: true, firstHomeScheme: true, localAuthorityLoan: true, vacantPropertyGrant: true, seiGrants: true },
     description: 'North Galway market town with essential services, affordable housing, and growing employment. Close to Knock Airport.',
+    costOfLiving: 66,
+    airQuality: 73,
   },
   {
     id: 'oranmore',
@@ -869,6 +973,8 @@ export const IRISH_AREAS: IrishArea[] = [
     healthcare: { hospitals: 0, gps: 0, dentists: 0 },
     grants: { helpToBuy: true, firstHomeScheme: true, localAuthorityLoan: true, vacantPropertyGrant: false, seiGrants: true },
     description: 'Fast-growing village east of Galway with a train stop and IDA business park nearby. Excellent value for Galway access.',
+    costOfLiving: 56,
+    airQuality: 69,
   },
   {
     id: 'castlebar',
@@ -885,6 +991,8 @@ export const IRISH_AREAS: IrishArea[] = [
     healthcare: { hospitals: 2, gps: 2, dentists: 3 },
     grants: { helpToBuy: true, firstHomeScheme: true, localAuthorityLoan: true, vacantPropertyGrant: true, seiGrants: true },
     description: 'Mayo county town with Mayo University Hospital, a cinema, and affordable housing. Rail link to Dublin via Athlone.',
+    costOfLiving: 61,
+    airQuality: 69,
   },
   {
     id: 'westport',
@@ -901,6 +1009,8 @@ export const IRISH_AREAS: IrishArea[] = [
     healthcare: { hospitals: 0, gps: 1, dentists: 4 },
     grants: { helpToBuy: true, firstHomeScheme: true, localAuthorityLoan: true, vacantPropertyGrant: true, seiGrants: true },
     description: 'One of Ireland\'s most beautiful planned towns under Croagh Patrick. Rail link, stunning scenery, Clew Bay, and a wonderful main street.',
+    costOfLiving: 46,
+    airQuality: 80,
   },
   {
     id: 'ballina',
@@ -917,6 +1027,8 @@ export const IRISH_AREAS: IrishArea[] = [
     healthcare: { hospitals: 1, gps: 1, dentists: 0 },
     grants: { helpToBuy: false, firstHomeScheme: false, localAuthorityLoan: true, vacantPropertyGrant: true, seiGrants: true },
     description: 'Salmon fishing capital of Ireland on the Moy river. Quiet town with a train link and very affordable property.',
+    costOfLiving: 63,
+    airQuality: 79,
   },
   {
     id: 'sligo-town',
@@ -933,6 +1045,8 @@ export const IRISH_AREAS: IrishArea[] = [
     healthcare: { hospitals: 0, gps: 3, dentists: 3 },
     grants: { helpToBuy: true, firstHomeScheme: true, localAuthorityLoan: true, vacantPropertyGrant: true, seiGrants: true },
     description: "Vibrant northwest capital with great beaches (Strandhill, Rosses Point), ATU Sligo, Yeats country, and a surprising cafe culture. Rail to Dublin.",
+    costOfLiving: 56,
+    airQuality: 70,
   },
   {
     id: 'roscommon-town',
@@ -949,6 +1063,8 @@ export const IRISH_AREAS: IrishArea[] = [
     healthcare: { hospitals: 1, gps: 1, dentists: 1 },
     grants: { helpToBuy: false, firstHomeScheme: false, localAuthorityLoan: true, vacantPropertyGrant: true, seiGrants: true },
     description: "Quiet midlands county town with Ireland's most affordable housing. Good for remote workers seeking space and tranquility.",
+    costOfLiving: 68,
+    airQuality: 79,
   },
 
   // ── ULSTER (Republic) ─────────────────────────────────────────────────────
@@ -968,6 +1084,8 @@ export const IRISH_AREAS: IrishArea[] = [
     healthcare: { hospitals: 1, gps: 2, dentists: 0 },
     grants: { helpToBuy: true, firstHomeScheme: true, localAuthorityLoan: true, vacantPropertyGrant: true, seiGrants: true },
     description: "Donegal's commercial hub with a surprisingly large retail offering, ATU Donegal, and gateway to the Wild Atlantic Way. Affordable and growing.",
+    costOfLiving: 59,
+    airQuality: 69,
   },
   {
     id: 'donegal-town',
@@ -984,6 +1102,8 @@ export const IRISH_AREAS: IrishArea[] = [
     healthcare: { hospitals: 1, gps: 2, dentists: 1 },
     grants: { helpToBuy: true, firstHomeScheme: true, localAuthorityLoan: true, vacantPropertyGrant: true, seiGrants: true },
     description: 'Small but characterful town with a castle, Donegal Bay, and remarkable natural scenery. Ideal for outdoor enthusiasts.',
+    costOfLiving: 63,
+    airQuality: 81,
   },
   {
     id: 'cavan-town',
@@ -1000,6 +1120,8 @@ export const IRISH_AREAS: IrishArea[] = [
     healthcare: { hospitals: 3, gps: 4, dentists: 7 },
     grants: { helpToBuy: true, firstHomeScheme: true, localAuthorityLoan: true, vacantPropertyGrant: true, seiGrants: true },
     description: "County town in Ireland's lake district. A surprisingly complete range of shops, a cinema, and affordable housing.",
+    costOfLiving: 63,
+    airQuality: 74,
   },
   {
     id: 'monaghan-town',
@@ -1016,5 +1138,7 @@ export const IRISH_AREAS: IrishArea[] = [
     healthcare: { hospitals: 2, gps: 0, dentists: 0 },
     grants: { helpToBuy: false, firstHomeScheme: false, localAuthorityLoan: true, vacantPropertyGrant: true, seiGrants: true },
     description: 'Small border county town with essential services and very affordable housing. Good bus connections and rural character.',
+    costOfLiving: 64,
+    airQuality: 73,
   },
 ];

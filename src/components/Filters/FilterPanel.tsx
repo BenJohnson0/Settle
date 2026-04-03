@@ -51,6 +51,8 @@ const WEIGHT_LABELS: Record<keyof FilterWeights, string> = {
   amenities: 'Schools, Libraries & Cinemas',
   healthcare: 'Healthcare',
   grants: 'Government Grants',
+  costOfLiving: 'Cost of Living',
+  airQuality: 'Air Quality',
 };
 
 function WeightSlider({ label, value, onChange }: { label: string; value: number; onChange: (v: number) => void }) {

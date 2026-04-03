@@ -16,7 +16,7 @@ function MiniBar({ value, color }: { value: number; color: string }) {
   );
 }
 
-const BAR_KEYS = ['shops', 'transport', 'affordability', 'recreation', 'amenities', 'healthcare', 'grants'] as const;
+const BAR_KEYS = ['shops', 'transport', 'affordability', 'recreation', 'amenities', 'healthcare', 'grants', 'costOfLiving', 'airQuality'] as const;
 
 export default function AreaList({ scoredAreas, selectedId, onSelect }: Props) {
   return (

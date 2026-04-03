@@ -54,6 +54,8 @@ export interface IrishArea {
   healthcare: Healthcare;
   grants: Grants;
   description: string;
+  costOfLiving: number;  // 0-100: higher = more affordable vs. Irish average
+  airQuality: number;    // 0-100: higher = cleaner air (EPA-based)
 }
 
 export interface FilterWeights {
@@ -64,6 +66,8 @@ export interface FilterWeights {
   amenities: number;
   healthcare: number;
   grants: number;
+  costOfLiving: number;
+  airQuality: number;
 }
 
 export interface Filters {
@@ -83,6 +87,8 @@ export interface ScoreBreakdown {
   amenities: number;
   healthcare: number;
   grants: number;
+  costOfLiving: number;
+  airQuality: number;
 }
 
 export interface ScoredArea {

@@ -118,10 +118,12 @@ export function scoreArea(area: IrishArea, filters: Filters): ScoredArea {
     amenities: amenitiesScore(area),
     healthcare: healthcareScore(area),
     grants: grantsScore(area),
+    costOfLiving: area.costOfLiving,
+    airQuality: area.airQuality,
   };
 
   const weights = filters.weights;
-  const categories = ['shops', 'transport', 'affordability', 'recreation', 'amenities', 'healthcare', 'grants'] as const;
+  const categories = ['shops', 'transport', 'affordability', 'recreation', 'amenities', 'healthcare', 'grants', 'costOfLiving', 'airQuality'] as const;
 
   let weightedSum = 0;
   let totalWeight = 0;
